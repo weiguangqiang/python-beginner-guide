@@ -1,0 +1,12 @@
+Two ways to comment in Python: single line and multiline
+
+Single Line:
+use the number sign (#) character.
+Eg.
+# This is a single line comment
+
+Multiline:
+use the (''') symbol.
+Eg.
+''' THis is a multiline comment
+the next line'''
